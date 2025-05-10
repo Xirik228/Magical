@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 
 body {
-    background-color: purple;
+    background-color: #1a1a40;
 }
 header {
     text-align: center;
@@ -216,8 +216,9 @@ p {
 }
 
 h5 {
-    font-size: 40px;
+    font-size: 60px;
     color:white;
+    text-align: center;
 }
 
 h6 {
@@ -237,4 +238,39 @@ h4 {
 li {
   font-size: 40px;
   color: white;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+.logovo {
+  width: 1200px;
+  height: 600px;
+  
+}
+
+.ozerko {
+    width: 1200px;
+  height: 600px;
+}
+
+.les {
+  width: 1200px;
+  height: 600px;
+}
+
+.goraa {
+ width: 1200px;
+  height: 600px;
+}
+
+.kanon {
+ width: 1200px;
+  height: 600px;
+}
+
+.pytka {
+ width: 1200px;
+  height: 600px;
 }
