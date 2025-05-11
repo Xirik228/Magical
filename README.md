@@ -1,1 +1,1 @@
-# Magical
+# Magical Site
